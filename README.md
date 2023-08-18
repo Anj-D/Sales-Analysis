@@ -7,7 +7,7 @@ Analyze sales trends over time
 Explore the relationship between sales and customer demographics
 # Technologies Used
 This project uses the following technologies:
- MySQL Database
- Microsoft Power BI- for EDL & Visualization
+* MySQL Database
+* Microsoft Power BI- for EDL & Visualization
 # Credits
 The data dump files and project details are from CODEBASICS website. 
