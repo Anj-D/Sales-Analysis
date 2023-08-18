@@ -7,6 +7,6 @@ The objective of this project is to analyze sales data using MySQL database+Powe
 * Explore the relationship between sales and customer demographics
 # Tools Used
 * MySQL Database
-* Microsoft Power BI- for EDL & Visualization
+* Microsoft Power BI- for EDA & Visualization
 # Credits
 The data dump files and project details are from CODEBASICS website. 
