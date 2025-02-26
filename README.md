@@ -8,5 +8,13 @@ The objective of this project is to analyze sales data using MySQL database+Powe
 # Tools Used
 * MySQL Database
 * Microsoft Power BI- for EDA & Visualization
+# Project snaps
+* 
+* The data model -
+# Takeaways
+* Sales peaked in 2018 at a whooping 196 million while hitting an all-time low in 2020 with just 22million in revenue.
+* North zone performs the best followed by central and then south in terms of total sales amount.
+* Top 3 products by revenue are prod040, prod159, prod065 while those by sales are prod090, prod239, prod237
+* Delhi NCR is the best performing market followed by Mumbai and Kochi.
 # Credits
 The data dump files and project details are from CODEBASICS website. 
