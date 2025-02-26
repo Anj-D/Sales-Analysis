@@ -12,9 +12,9 @@ The objective of this project is to analyze sales data using MySQL database+Powe
 * 
 * The data model -
 # Takeaways
-* Sales peaked in 2018 at a whooping 196 million while hitting an all-time low in 2020 with just 22million in revenue.
-* North zone performs the best followed by central and then south in terms of total sales amount.
-* Top 3 products by revenue are prod040, prod159, prod065 while those by sales are prod090, prod239, prod237
-* Delhi NCR is the best performing market followed by Mumbai and Kochi.
+* **Sales peaked in 2018**, reaching a record high of 196 million, while **2020 saw the lowest revenue** at 22 million.
+* The **North zone outperforms all regions**, followed by the Central and South zones in total sales.
+* **Top-grossing products by revenue** are Prod040, Prod159, and Prod065, while **highest-selling products by volume** are Prod090, Prod239, and Prod237.
+* **Delhi NCR leads as the top-performing market**, followed by Mumbai and Kochi.
 # Credits
 The data dump files and project details are from CODEBASICS website. 
